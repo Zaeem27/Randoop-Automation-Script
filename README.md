@@ -1,2 +1,2 @@
 # Randoop-Automation-Script
-Demonstration of creating running automated test cases through maven and randoop using a python script
+Demonstration of creating and running automated test cases through maven and randoop using a python script
